@@ -1,4 +1,3 @@
-# owners for external/libavc
-include platform/frameworks/av:/media/janitors/codec_OWNERS
-essick@google.com
-hkuang@google.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d071f8834adf34914f389236df95c6dba2f02a2996f84ac31ffe72e07f3d9e9
+size 125
